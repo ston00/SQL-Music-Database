@@ -1,0 +1,16 @@
+idRecord_label,record_label_name,num_artist_signed_by_label,total_certifications_of_artists,idArtist
+1,Motown Record,37,300,1
+2,Colombia Records,132,400,2
+3,Sire Records,200,500,3
+4,Mass Appeal Records,14,120,4
+5,Bad Boy Records,7,60,5
+6,Death Row Records,26,250,6
+7,Capitol Records,40,395,7
+8,Mercury Records,20,120,8
+9,MCA Records Nashville,10,60,9
+10,Geffen Records,32,300,10
+11,BMG Rights Management,39,350,11
+12,Interscope Records,159,460,12
+13,Blackground Records,20,300,13
+14,LaFace Records,25,450,14
+15,RCA Records,50,450,15
